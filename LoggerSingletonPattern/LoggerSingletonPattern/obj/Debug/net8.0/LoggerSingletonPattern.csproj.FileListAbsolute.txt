@@ -1,0 +1,15 @@
+C:\Code\Practice\Design patterns\Singleton pattern\csharp_singleton_design_pattern\LoggerSingletonPattern\LoggerSingletonPattern\bin\Debug\net8.0\LoggerSingletonPattern.exe
+C:\Code\Practice\Design patterns\Singleton pattern\csharp_singleton_design_pattern\LoggerSingletonPattern\LoggerSingletonPattern\bin\Debug\net8.0\LoggerSingletonPattern.deps.json
+C:\Code\Practice\Design patterns\Singleton pattern\csharp_singleton_design_pattern\LoggerSingletonPattern\LoggerSingletonPattern\bin\Debug\net8.0\LoggerSingletonPattern.runtimeconfig.json
+C:\Code\Practice\Design patterns\Singleton pattern\csharp_singleton_design_pattern\LoggerSingletonPattern\LoggerSingletonPattern\bin\Debug\net8.0\LoggerSingletonPattern.dll
+C:\Code\Practice\Design patterns\Singleton pattern\csharp_singleton_design_pattern\LoggerSingletonPattern\LoggerSingletonPattern\bin\Debug\net8.0\LoggerSingletonPattern.pdb
+C:\Code\Practice\Design patterns\Singleton pattern\csharp_singleton_design_pattern\LoggerSingletonPattern\LoggerSingletonPattern\obj\Debug\net8.0\LoggerSingletonPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\Practice\Design patterns\Singleton pattern\csharp_singleton_design_pattern\LoggerSingletonPattern\LoggerSingletonPattern\obj\Debug\net8.0\LoggerSingletonPattern.AssemblyInfoInputs.cache
+C:\Code\Practice\Design patterns\Singleton pattern\csharp_singleton_design_pattern\LoggerSingletonPattern\LoggerSingletonPattern\obj\Debug\net8.0\LoggerSingletonPattern.AssemblyInfo.cs
+C:\Code\Practice\Design patterns\Singleton pattern\csharp_singleton_design_pattern\LoggerSingletonPattern\LoggerSingletonPattern\obj\Debug\net8.0\LoggerSingletonPattern.csproj.CoreCompileInputs.cache
+C:\Code\Practice\Design patterns\Singleton pattern\csharp_singleton_design_pattern\LoggerSingletonPattern\LoggerSingletonPattern\obj\Debug\net8.0\LoggerSingletonPattern.sourcelink.json
+C:\Code\Practice\Design patterns\Singleton pattern\csharp_singleton_design_pattern\LoggerSingletonPattern\LoggerSingletonPattern\obj\Debug\net8.0\LoggerSingletonPattern.dll
+C:\Code\Practice\Design patterns\Singleton pattern\csharp_singleton_design_pattern\LoggerSingletonPattern\LoggerSingletonPattern\obj\Debug\net8.0\refint\LoggerSingletonPattern.dll
+C:\Code\Practice\Design patterns\Singleton pattern\csharp_singleton_design_pattern\LoggerSingletonPattern\LoggerSingletonPattern\obj\Debug\net8.0\LoggerSingletonPattern.pdb
+C:\Code\Practice\Design patterns\Singleton pattern\csharp_singleton_design_pattern\LoggerSingletonPattern\LoggerSingletonPattern\obj\Debug\net8.0\LoggerSingletonPattern.genruntimeconfig.cache
+C:\Code\Practice\Design patterns\Singleton pattern\csharp_singleton_design_pattern\LoggerSingletonPattern\LoggerSingletonPattern\obj\Debug\net8.0\ref\LoggerSingletonPattern.dll
