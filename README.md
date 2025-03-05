@@ -1,7 +1,9 @@
 Assignment: Implementing the Singleton Design Pattern in C#
 
 Objective: The goal of this assignment is to understand and implement the Singleton Design Pattern in C#. You will learn how to ensure that only one instance of a class exists throughout the lifetime of the application, while providing a global point of access to that instance.
+
 Assignment Tasks
+
 Task 1: Implement the Singleton Class
 
 Create a class Logger that follows the Singleton design pattern to ensure that only one instance of the Logger class exists.
