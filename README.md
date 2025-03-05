@@ -33,34 +33,3 @@ Write a Main() method to demonstrate the Singleton pattern.
         Call Logger.GetInstance() multiple times and verify that each call returns the same instance.
         Log a few messages using the Logger.Log() method to demonstrate that all logs are coming from the same instance.
 
-Task 4: Real-World Example Simulation (Optional)
-
-Extend the assignment by simulating a real-world scenario where the Singleton pattern might be useful, such as:
-
-    Logging System: A logger that logs events from different parts of the application but always uses the same instance.
-    Configuration Manager: A configuration manager that reads settings from a file or environment variables, but ensures the same instance is used throughout the application.
-    Database Connection Pooling: A class that handles a pool of database connections, ensuring the application only has one pool object.
-
-Submission Requirements:
-
-    Code Implementation: Submit your Logger class and any additional code files you created (e.g., configuration manager, database pool class).
-    Documentation: Provide a brief explanation of how the Singleton design pattern works and how you ensured thread safety (if applicable).
-    Test Cases: Include the Main() method that tests the Singleton behavior by creating multiple calls to GetInstance() and logging different messages.
-
-Bonus Task: Enum Singleton (Optional)
-
-In C#, an alternative way to create a Singleton is by using an enum. Try to implement a Singleton using an enum and compare the differences with your standard implementation.
-Example Structure:
-
-    Singleton Class: Implement a basic thread-safe Singleton with logging functionality.
-    Thread-Safe Singleton: Ensure thread safety using locking mechanisms or lazy initialization.
-    Test Class: Simulate logging or configuration management and verify Singleton behavior.
-    Real-World Use Case (Optional): Simulate a real-world example using the Singleton pattern.
-
-Hints & Tips:
-
-    Make sure the constructor of your Logger class is private.
-    The Singleton instance should be stored as a static field.
-    Think carefully about how to handle thread safety. Simple locking mechanisms might work, but consider performance implications for heavily used Singletons.
-
-This assignment will help you gain hands-on experience with one of the most widely used design patterns in software engineering.
